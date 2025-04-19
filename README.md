@@ -41,4 +41,4 @@ Feel free to fork this repository and submit pull requests for enhancements or b
 License
 This project is open-source and available under the MIT License.
 Contact
-For questions or support, contact Aditya Ghayal at [your-email@example.com].
+For questions or support, contact Aditya Ghayal at adi.ghayal23@gmail.com
