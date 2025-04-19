@@ -1,5 +1,5 @@
-Flutter First App README
-Overview
+## Flutter First App README
+## Overview
 This is a simple Flutter application that creates a basic user interface to display company, teacher, and employee information along with colored containers. The app is built using the Flutter framework and showcases fundamental widgets and layout techniques.
 Features
 
@@ -8,13 +8,13 @@ Shows text widgets with company name ("Core2web"), teacher name ("Shashi Sir"), 
 Includes two colored containers (amber and purple) side by side using a Row widget.
 Utilizes MaterialApp and Scaffold for a standard Flutter app structure.
 
-Prerequisites
+## Prerequisites
 
 Flutter SDK installed (latest version recommended).
 Dart programming language support.
 An IDE or editor (e.g., VS Code, Android Studio) with Flutter plugin.
 
-Installation
+## Installation
 
 Clone or download this repository to your local machine.
 Navigate to the project directory in your terminal.
@@ -22,12 +22,12 @@ Run flutter pub get to install dependencies.
 Connect a device or start an emulator.
 Run flutter run to launch the app.
 
-Usage
+## Usage
 
 The app launches with a centered layout displaying the specified text and colored boxes.
 No user interaction is implemented; it serves as a static display.
 
-Code Structure
+## Code Structure
 
 main.dart: The entry point of the application.
 main(): Initializes and runs the app.
